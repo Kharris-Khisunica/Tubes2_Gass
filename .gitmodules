@@ -1,0 +1,3 @@
+[submodule "src/goquery"]
+	path = src/goquery
+	url = https://github.com/PuerkitoBio/goquery
